@@ -1,4 +1,15 @@
 # Tensorflow-GPU 版本配對一覽
+|    Tensorflow 版本    | Python 版本 | cuDNN | CUDA |
+|----------------------|-------------|-------|------|
+| tensorflow_gpu-2.6.0 | 3.6到3.9 | 8.1 | 11.2 |
+| tensorflow_gpu-2.5.0 | 3.6到3.9 | 8.1 | 11.2 |
+| tensorflow_gpu-2.4.0 | 3.6到3.8 | 8.0 | 11.0 |
+| tensorflow_gpu-2.3.0 | 3.5到3.8 | 7.6 | 10.1 |
+| tensorflow_gpu-2.2.0 | 3.5到3.8 | 7.6 | 10.1 |
+| tensorflow_gpu-2.1.0 | 3.5到3.7 | 7.6 | 10.1 |
+| tensorflow_gpu-2.0.0 | 3.5到3.7 | 7.4 | 10.0 |
+
+更久遠版本配對詳見官網 [點我](https://tensorflow.google.cn/install/source_windows#gpu)
 
 # Tensorflow-GPU 測試指令
     python
