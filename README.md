@@ -1,3 +1,12 @@
+# 目錄
+* [Tensorflow-GPU 版本配對一覽](#tensorflow-gpu-版本配對一覽)
+    * [若想查看CUDA版本](#若想查看cuda版本) 
+* [Tensorflow-GPU 安裝](#tensorflow-gpu-安裝)
+* [Tensorflow-GPU 測試指令](#tensorflow-gpu-測試指令)
+* [查詢Tensorflow版本](#查詢tensorflow版本)
+* [TensorLayer 介紹](#tensorlayer-介紹)
+* [安裝 TensorLayer](#安裝-tensorlayer)
+
 # Tensorflow-GPU 版本配對一覽
 |    Tensorflow 版本    | Python 版本 | cuDNN | CUDA |
 |----------------------|-------------|-------|------|
@@ -9,7 +18,7 @@
 | tensorflow_gpu-2.1.0 | 3.5到3.7 | 7.6 | 10.1 |
 | tensorflow_gpu-2.0.0 | 3.5到3.7 | 7.4 | 10.0 |
 
-更久遠版本配對詳見官網 [點我](https://tensorflow.google.cn/install/source_windows#gpu)
+更久遠版本配對詳見🔥🔥官網 [點我](https://tensorflow.google.cn/install/source_windows#gpu)
 
 ## 若想查看CUDA版本
     nvcc -V
@@ -54,7 +63,7 @@
 [![Chinese Documentation](https://img.shields.io/badge/documentation-%E4%B8%AD%E6%96%87-blue.svg)](https://tensorlayercn.readthedocs.io/)
 [![Chinese Book](https://img.shields.io/badge/book-%E4%B8%AD%E6%96%87-blue.svg)](http://www.broadview.com.cn/book/5059/)
 
-以上資訊來自於 [Tensorflow官方Github](https://github.com/tensorlayer/tensorlayer)
+以上資訊來自於🔥🔥 [Tensorflow官方Github](https://github.com/tensorlayer/tensorlayer)
 
 # 安裝 TensorLayer
     pip isntall tensorlayer
