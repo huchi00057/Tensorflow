@@ -38,9 +38,23 @@
 ![image](https://user-images.githubusercontent.com/46515944/198817509-a70bb29f-d3e1-4abf-bc3f-4f5f1c714ef4.png)
 
 # TensorLayer 介紹
-TensorLayer 是基於 Tensorflow 的深度學習與強學習庫，特別設計給研究人員與工程師使用的。
+📌TensorLayer 是基於 Tensorflow 的深度學習與強學習庫，特別設計給研究人員與工程師使用的。
 
+📌目前版本支持TensorFlow、Pytorch、MindSpore、PaddlePaddle、OneFlow 和 Jittor 作為後端，允許用戶在 Nvidia-GPU 和華為-Ascend 等不同硬件上運行代碼。
 
+📌優點：
+1. Simplicity(簡單)：人家用好好的，你直接套用就好
+2. Flexibility(彈性)：什麼資料都公開出來，看你要改啥都很彈性
+3. Zero-cost Abstraction(零成本抽象)：除了輕易上手超級讚，你還不需要付錢
+
+📌它已被世界各地的研究人員和工程師使用，包括來自北京大學、倫敦帝國理工學院、加州大學伯克利分校、卡內基梅隆大學、斯坦福大學以及谷歌、微軟、阿里巴巴、騰訊、小米和彭博等公司的研究人員和工程師。
+
+📌詳細資料目前有英文跟中文
+[![English Documentation](https://img.shields.io/badge/documentation-english-blue.svg)](https://tensorlayer.readthedocs.io/)
+[![Chinese Documentation](https://img.shields.io/badge/documentation-%E4%B8%AD%E6%96%87-blue.svg)](https://tensorlayercn.readthedocs.io/)
+[![Chinese Book](https://img.shields.io/badge/book-%E4%B8%AD%E6%96%87-blue.svg)](http://www.broadview.com.cn/book/5059/)
+
+以上資訊來自於 [Tensorflow官方Github](https://github.com/tensorlayer/tensorlayer)
 
 # 安裝 TensorLayer
     pip isntall tensorlayer
