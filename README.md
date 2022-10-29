@@ -15,6 +15,12 @@
     nvcc -V
 ![image](https://user-images.githubusercontent.com/46515944/198818059-605804d4-630e-4c35-b359-0ec494ee6207.png)
 
+# Tensorflow-GPU 安裝
+    pip install tensorflow-gpu    
+ 如果想指定版本可輸入
+ 
+    pip install tensorflow-gpu==2.6.0
+ 
 
 # Tensorflow-GPU 測試指令
     python
@@ -31,4 +37,10 @@
     
 ![image](https://user-images.githubusercontent.com/46515944/198817509-a70bb29f-d3e1-4abf-bc3f-4f5f1c714ef4.png)
 
+# TensorLayer 介紹
+TensorLayer 是基於 Tensorflow 的深度學習與強學習庫，特別設計給研究人員與工程師使用的。
 
+
+
+# 安裝 TensorLayer
+    pip isntall tensorlayer
