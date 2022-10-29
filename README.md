@@ -11,6 +11,11 @@
 
 更久遠版本配對詳見官網 [點我](https://tensorflow.google.cn/install/source_windows#gpu)
 
+## 若想查看CUDA版本
+    nvcc -V
+![image](https://user-images.githubusercontent.com/46515944/198818059-605804d4-630e-4c35-b359-0ec494ee6207.png)
+
+
 # Tensorflow-GPU 測試指令
     python
     import tensorflow as tf
