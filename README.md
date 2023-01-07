@@ -42,7 +42,7 @@
 
 # 查詢Tensorflow版本
     python 
-    import tensorlfow as tf
+    import tensorflow as tf
     tf.__version__
     
 ![image](https://user-images.githubusercontent.com/46515944/198817509-a70bb29f-d3e1-4abf-bc3f-4f5f1c714ef4.png)
