@@ -41,7 +41,8 @@
 ![198817447-b94f94fd-d55d-4956-a570-f840df667866](https://user-images.githubusercontent.com/46515944/198817536-a89a44d7-3ebe-4c36-a681-2ff15e9ecff9.png)
 
 # 查詢Tensorflow版本
-    python import tensorlfow as tf
+    python 
+    import tensorlfow as tf
     tf.__version__
     
 ![image](https://user-images.githubusercontent.com/46515944/198817509-a70bb29f-d3e1-4abf-bc3f-4f5f1c714ef4.png)
